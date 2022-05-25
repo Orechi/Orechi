@@ -1,9 +1,9 @@
 - 
 - 👋 Hi, I’m @Orechi
--* 👀 I’m interested in Nike
-- 🌱 I’m currently learning Desenvolvimento de sites
--* 💞️ I’m looking to collaborate on São Paulo and Nike...
--*📫 How to reach me go to Nike
+-* 👀 I’m interested in 
+- 🌱 I’m currently learning 
+-* 💞️ I’m looking to collaborate
+-*📫 How to reach me
 
 <!---
 Orechi/Orechi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
